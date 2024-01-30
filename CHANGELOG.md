@@ -4,6 +4,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.2](https://github.com/roach-php/core/compare/v3.0.1...v3.0.2) (2024-01-30)
+
+
+### Miscellaneous Chores
+
+* **deps-dev:** bump ergebnis/composer-normalize from 2.39.0 to 2.41.1 ([0754a57](https://github.com/roach-php/core/commit/0754a577a073f25fbbb725a8823991f1bebbdf82))
+* **deps-dev:** bump ergebnis/php-cs-fixer-config from 6.11.0 to 6.20.0 ([d448bb2](https://github.com/roach-php/core/commit/d448bb242a11cd140eb00a4474d00e5219c9eea7))
+* **deps-dev:** bump phpunit/phpunit from 10.4.2 to 10.5.9 ([97ec170](https://github.com/roach-php/core/commit/97ec17082766de667d0d7e51a68e337d22fcc66e))
+* **deps-dev:** bump spatie/browsershot from 3.60.0 to 3.61.0 ([6f0c73e](https://github.com/roach-php/core/commit/6f0c73ef099bf7cf6f1b56693eb966bb6fc49e39))
+* **deps-dev:** bump vimeo/psalm from 5.16.0 to 5.20.0 ([f71d19a](https://github.com/roach-php/core/commit/f71d19a995ab01a723d54b9610ab11d14f07aeb1))
+* **deps:** bump guzzlehttp/guzzle from 7.8.0 to 7.8.1 ([bd2b7bb](https://github.com/roach-php/core/commit/bd2b7bbe4b1ff483bb26cdc658eaa879af66f0b9))
+* **deps:** bump symfony/css-selector from 6.3.2 to 6.4.0 ([695119c](https://github.com/roach-php/core/commit/695119cd6e06563c0e5a8329b4f8f5cb56040996))
+* **deps:** bump symfony/event-dispatcher from 6.3.2 to 6.4.2 ([b381b7e](https://github.com/roach-php/core/commit/b381b7e6e4e52f62c4960f795886eaef823c09e2))
+* **deps:** bump symfony/options-resolver from 6.3.0 to 6.4.0 ([4a74369](https://github.com/roach-php/core/commit/4a743693b7fe0d0c6a8744375aa582102309c2a7))
+
 ## [3.0.1](https://github.com/roach-php/core/compare/v3.0.0...v3.0.1) (2024-01-25)
 
 
